@@ -5,19 +5,19 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: "Album cover for They Might Be Giants\_"
-datePublished: '2016-04-15T04:43:19.762Z'
-dateModified: '2016-04-15T04:42:54.757Z'
-title: ''
+description: Cover for They Might Be Giants album “Mink Car”.
+datePublished: '2016-04-15T05:01:25.039Z'
+dateModified: '2016-04-15T05:01:10.819Z'
+title: Mink Car for They Might Be Giants
 author: []
+sourcePath: _posts/2016-04-15-album-cover-for-they-might-be-giants.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-15-album-cover-for-they-might-be-giants.md
-published: true
 url: album-cover-for-they-might-be-giants/index.html
 _type: Article
 
