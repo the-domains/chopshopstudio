@@ -1,7 +1,7 @@
 name: Chop Shop
 favicon: null
-layout_spectrum: 0.4312671320512891
-typography_spectrum: 0.852405866375193
+layout_spectrum: 0.91181
+typography_spectrum: 0.63646
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.9219005212653428
+    - '#ffffff'
+    - '#ff2f00'
+    - '#999999'
+    - '#145866'
+    - '#ab5d4b'
+  brandStrength: 1
   lightness: 0.9158643228001893
   saturation: 0.2641807799227536
   rhythmicContrast: 0.3347029082942754
