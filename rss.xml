@@ -4,7 +4,7 @@
         <description><![CDATA[Chop Shop]]></description>
         <link>https://thegrid.ai/chopshopstudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Apr 2016 04:43:26 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2016 04:44:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/chopshopstudio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Rosetta / Philae]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/26458f9f-db83-4557-b343-6698b18c402b.png">]]></description>
             <link>https://thegrid.ai/chopshopstudio/128dca79-e7e7-424c-a50e-db69b18d8d93/index.html</link>
             <guid isPermaLink="false">128dca79-e7e7-424c-a50e-db69b18d8d93</guid>
+            <pubDate>Fri, 15 Apr 2016 04:43:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f10801e1-59da-45bb-b269-28e5793cbb5b.jpg">]]></description>
+            <link>https://thegrid.ai/chopshopstudio/album-cover-for-they-might-be-giants/index.html</link>
+            <guid isPermaLink="false">e9b6abfe-0668-440e-909c-63c6db03c1d8</guid>
             <pubDate>Fri, 15 Apr 2016 04:43:19 GMT</pubDate>
         </item>
     </channel>
