@@ -1,7 +1,7 @@
 name: Chop Shop Studio
 favicon: null
 layout_spectrum: 0.4972
-typography_spectrum: 0.63646
+typography_spectrum: 0.63166
 title: The Designs of Thomas Romer
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#ff2f00'
-    - '#999999'
-    - '#145866'
-    - '#ab5d4b'
+    - '#000000'
+    - '#71675e'
+    - '#a6aaad'
+    - '#1b1b1b'
+    - '#dcdcdc'
   brandStrength: 0
   lightness: 0
   saturation: 1
