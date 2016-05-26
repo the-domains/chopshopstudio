@@ -5,14 +5,14 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Save the Date for Phish
-datePublished: '2016-05-26T21:26:00.558Z'
-dateModified: '2016-05-26T21:25:54.563Z'
+datePublished: '2016-05-26T21:27:27.607Z'
+dateModified: '2016-05-26T21:26:23.156Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-26-save-the-date-for-phish.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-05-26-save-the-date-for-phish.md
+starred: true
 url: save-the-date-for-phish/index.html
 _type: Article
 
